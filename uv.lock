@@ -1,3 +1,0 @@
-# This tells Streamlit Cloud which Python version to use
-[tool.uv]
-python-version = "3.10"
